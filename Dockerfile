@@ -1,4 +1,4 @@
-FROM arm64v8/alpine:latest
+FROM arm32v6/alpine:latest
 
 LABEL maintainer="Jean-Pierre Palik - kama@palik.fr" \
       description="Docker container with Caddy server" \
